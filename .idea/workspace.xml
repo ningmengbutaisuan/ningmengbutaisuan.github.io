@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="249be594-278b-4cf4-af69-677919ea7e27" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio/haojiubujian.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio/love.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/default.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/functions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/garden.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/love.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ningmengbutaisuan.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -41,8 +33,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5443645" vertical-offset="1106" max-vertical-offset="1940">
-              <caret line="78" column="4" selection-start-line="78" selection-start-column="4" selection-end-line="78" selection-end-column="4" />
+            <state vertical-scroll-proportion="0.69544363" vertical-offset="0" max-vertical-offset="1940">
+              <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -580,7 +572,7 @@
       <created>1460194057149</created>
       <option name="number" value="Default" />
       <updated>1460194057149</updated>
-      <workItem from="1460194057117" duration="5675000" />
+      <workItem from="1460194057117" duration="6633000" />
     </task>
     <task id="LOCAL-00001" summary="好看">
       <created>1460197303599</created>
@@ -592,10 +584,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5675000" />
+    <option name="totallyTimeSpent" value="6633000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="260" y="20" width="1400" height="1000" extended-state="0" />
+    <frame x="260" y="20" width="1400" height="1000" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -702,8 +694,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5443645" vertical-offset="1106" max-vertical-offset="1940">
-          <caret line="78" column="4" selection-start-line="78" selection-start-column="4" selection-end-line="78" selection-end-column="4" />
+        <state vertical-scroll-proportion="0.69544363" vertical-offset="0" max-vertical-offset="1940">
+          <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
           <folding />
         </state>
       </provider>
